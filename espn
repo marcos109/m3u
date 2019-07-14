@@ -1,0 +1,84 @@
+#EXTM3U
+#EXTINF:0 tvg-logo="https://3.bp.blogspot.com/--lCxTMtpU40/WcgWNrEwaMI/AAAAAAAAAX4/xHZi5qp08SIrAzErQYQma0bbSy422YnWwCLcBGAs/s320/Sin%2Bt%25C3%25ADtulo-1.jpg", SRREGIO.NET
+http://srregio.com/
+#EXTINF:0 tvg-logo="http://www.playstorear.com/wp-content/uploads/actualizar.png", Actualizada 13.07.2019
+http://srregio.com/
+#EXTINF:0 tvg-logo="http://imagenpng.com/wp-content/uploads/2016/09/Paypal-Logo-PNG-0.png", http://paypal.me/SrRegio
+http://srregio.com/
+#EXTINF:0 tvg-logo="https://www.facebook.com/images/fb_icon_325x325.png", @SrRegio
+http://srregio.com/
+#EXTINF:0 tvg-logo="http://msfi.ir/Content/img/Logos/telegram2.png", @SrRegio
+http://srregio.com/
+#EXTINF:0 tvg-logo="http://msfi.ir/Content/img/Logos/telegram2.png", t.me/SrRegioPeticiones
+http://srregio.com/
+#EXTINF:0 tvg-name="AZTECA1", AZTECA1
+http://176.9.84.52:8080/AZTECA1/mpegts?token=3s
+#EXTINF:0 tvg-name="FOROTV", FOROTV
+http://176.9.84.52:8080/FOROTV/mpegts?token=3s
+#EXTINF:0 tvg-name="AZCLICK", AZCLICK
+http://176.9.84.52:8080/AZCLICK/mpegts?token=3s
+#EXTINF:0 tvg-name="DISCOVERYTLC", DISCOVERYTLC
+http://176.9.84.52:8080/DISCOVERYTLC/mpegts?token=3s
+#EXTINF:0 tvg-name="CANALDELASESTRELLAS", CANALDELASESTRELLAS
+http://176.9.84.52:8080/CANALDELASESTRELLAS/mpegts?token=3s
+#EXTINF:0 tvg-name="AZTECA7", AZTECA7
+http://176.9.84.52:8080/AZTECA7/mpegts?token=3s
+#EXTINF:0 tvg-name="CANAL9", CANAL9
+http://176.9.84.52:8080/CANAL9/mpegts?token=3s
+#EXTINF:0 tvg-name="FOX", FOX
+http://176.9.84.52:8080/FOX/mpegts?token=3s
+#EXTINF:0 tvg-name="SONY", SONY
+http://176.9.84.52:8080/SONY/mpegts?token=3s
+#EXTINF:0 tvg-name="WARNER", WARNER
+http://176.9.84.52:8080/WARNER/mpegts?token=3s
+#EXTINF:0 tvg-name="UNIVERSAL", UNIVERSAL
+http://176.9.84.52:8080/UNIVERSAL/mpegts?token=3s
+#EXTINF:0 tvg-name="SYFY", SYFY
+http://176.9.84.52:8080/SYFY/mpegts?token=3s
+#EXTINF:0 tvg-name="FX", FX
+http://176.9.84.52:8080/FX/mpegts?token=3s
+#EXTINF:0 tvg-name="A&E", A&E
+http://176.9.84.52:8080/A&E/mpegts?token=3s
+#EXTINF:0 tvg-name="AXN", AXN
+http://176.9.84.52:8080/AXN/mpegts?token=3s
+#EXTINF:0 tvg-name="UNICABLE", UNICABLE
+http://176.9.84.52:8080/UNICABLE/mpegts?token=3s
+#EXTINF:0 tvg-name="ID", ID
+http://176.9.84.52:8080/ID/mpegts?token=3s
+#EXTINF:0 tvg-name="AZCORAZON", AZCORAZON
+http://176.9.84.52:8080/AZCORAZON/mpegts?token=3s
+#EXTINF:0 tvg-name="TNTSERIES", TNTSERIES
+http://176.9.84.52:8080/TNTSERIES/mpegts?token=3s
+#EXTINF:0 tvg-name="GOLDEN", GOLDEN
+http://176.9.84.52:8080/GOLDEN/mpegts?token=3s
+#EXTINF:0 tvg-name="GARAJETV", GARAJETV
+http://176.9.84.52:8080/GARAJETV/mpegts?token=3s
+#EXTINF:0 tvg-name="FOXLIFE", FOXLIFE
+http://176.9.84.52:8080/FOXLIFE/mpegts?token=3s
+#EXTINF:0 tvg-name="DISTRITOCOMEDIA", DISTRITOCOMEDIA
+http://176.9.84.52:8080/DISTRITOCOMEDIA/mpegts?token=3s
+#EXTINF:0 tvg-name="TRUTV", TRUTV
+http://176.9.84.52:8080/TRUTV/mpegts?token=3s
+#EXTINF:0 tvg-name="TBS", TBS
+http://176.9.84.52:8080/TBS/mpegts?token=3s
+#EXTINF:0 tvg-name="DISCOVERYCHANNEL", DISCOVERYCHANNEL
+http://176.9.84.52:8080/DISCOVERYCHANNEL/mpegts?token=3s
+#EXTINF:0 tvg-name="ANIMALPLANET", ANIMALPLANET
+http://176.9.84.52:8080/ANIMALPLANET/mpegts?token=3s
+#EXTINF:0 tvg-name="NATGEO", NATGEO
+http://176.9.84.52:8080/NATGEO/mpegts?token=3s
+#EXTINF:0 tvg-name="NATGEOWILD", NATGEOWILD
+http://176.9.84.52:8080/NATGEOWILD/mpegts?token=3s
+#EXTINF:0 tvg-name="LIFETIME", LIFETIME
+http://176.9.84.52:8080/LIFETIME/mpegts?token=3s
+#EXTINF:0 tvg-name="DISCOVERYTHEATER", DISCOVERYTHEATER
+http://176.9.84.52:8080/DISCOVERYTHEATER/mpegts?token=3s
+#EXTINF:0 tvg-name="DISCOVERYHOMEANDHEATL", DISCOVERYHOMEANDHEATL
+http://176.9.84.52:8080/DISCOVERYHOMEANDHEATL/mpegts?token=3s
+#EXTINF:0 tvg-name="DISCOVERYSCIENCI", DISCOVERYSCIENCI
+http://176.9.84.52:8080/DISCOVERYSCIENCI/mpegts?token=3s
+#EXTINF:0 tvg-name="DISCOVERYCIVILITATION", DISCOVERYCIVILITATION
+http://176.9.84.52:8080/DISCOVERYCIVILITATION/mpegts?token=3s
+#EXTINF:0 tvg-name="DISCOVERYWORLD", DISCOVERYWORLD
+http://176.9.84.52:8080/DISCOVERYWORLD/mpegts?token=3s
+#EXTINF:0 tvg-name="
